@@ -27,3 +27,27 @@ Contact Center Flow Buidler.
 | Tracey   | Lab 4 | Skill Based Routing  | [SkillBasedRouting](Lab4.md){:target="\_blank"}   | Offer premium services using Advanced Skill Based routing |
 | ChandraMouli | Lab 5 | Bonus - Preferred Agent Routing| [HTTP](Lab5.md){:target="\_blank"}    |  Preferred/Last Agent Routing|
 | ChandraMouli | Lab 6 | Bonus - TTS & Google CCAI DialogFlow Bot | [DialogFlow](Lab6.md){:target="\_blank1"}    | TripPlanner BOT using Google CCAI |
+
+
+<script>
+function mainPage() {window.location.href = "https://wxcctechsummit.github.io/wxcclabguides/LTRCCT-2012/Home.html";}
+function nextLab()
+ {
+ window.location.href = "https://wxcctechsummit.github.io/wxcclabguides/LTRCCT-2012/Lab0.html";
+ }
+</script>
+
+<div id="button-row">
+<button onclick="mainPage()" style="
+  border-radius: 5px;
+  background-color: rgb(116,191,75);
+  padding: 10px;">Home Page</button>
+
+<button onclick="nextLab()" style="
+  position: absolute;
+  right: 200px;
+  border-radius: 5px;
+  background-color: rgb(116,191,75);
+  padding: 10px;">Go to the Next Lab</button>
+
+</div>
